@@ -27,7 +27,7 @@ a {
 #colorful-line {
     height: 5px;
     width: 100%;
-}   
+}
 #colorful-line span {
     background: #70c4dd;
     width: 33.33%;
@@ -36,7 +36,7 @@ a {
     float: left;
 }
 #colorful-line span:nth-child(2){
-    background: #d9c673;   
+    background: #d9c673;
 }
 #colorful-line span:nth-child(3){
     background: #616464;
@@ -48,7 +48,7 @@ a {
 }
 
 .wrapper nav {
-    float: right;   
+    float: right;
 }
 .wrapper nav ul {
     list-style-type: none;
@@ -64,7 +64,7 @@ a {
     font-weight: 600;
 }
 
-.logo { 
+.logo {
     float: left;
 }
 h1 {
@@ -83,7 +83,7 @@ h1 strong {
 .product {
     margin-top: -35px;
     float: left;
-}   
+}
 
 .preorder-box {
     width: 360px;
@@ -133,10 +133,13 @@ h1 strong {
 }
 
 .button img, .button1 img {
-	margin-right: 50px; 	
+	margin-right: 50px;
 }
 
 #app, #computer {
+    margin-top: -50px;
+}
+#computer {
     margin-top: 100px;
 }
 #app .phone, #computer .imac {
@@ -144,16 +147,16 @@ h1 strong {
 }
 #app .desc, #computer .desc {
     width: 400px;
-    float: right; 
+    float: right;
     text-align: right;
     margin-top: 65px;
     margin-right: 10px;
 }
-#computer .desc { 
+#computer .desc {
     margin-top: 115px;
 }
 #computer .desc .icon {
-    margin-right: -50px; 
+    margin-right: -50px;
 }
 #app .desc h2, #computer .desc h2 {
     color: black;
@@ -162,7 +165,7 @@ h1 strong {
     margin: 20px 0 10px 0;
 }
 #app .desc p, #computer .desc p {
-    line-height:150%;   
+    line-height:150%;
 }
 
 #features {
@@ -195,7 +198,7 @@ footer .wrapper {
 }
 footer .wrapper .hand {
     margin: -290px 50px 0 -170px;
-    float: left; 
+    float: left;
 }
 footer .wrapper div.menu {
     width: 200px;
@@ -215,13 +218,13 @@ footer .wrapper div.menu ul li {
     line-height: 150%;
 }
 footer .wrapper div.menu ul li.location {
-    list-style: disc url(../i/footer_icon_location.png);   
+    list-style: disc url(../i/footer_icon_location.png);
 }
 footer .wrapper div.menu ul li.phone {
-    list-style: disc url(../i/footer_icon_phone.png);   
+    list-style: disc url(../i/footer_icon_phone.png);
 }
 footer .wrapper div.menu ul li.mail {
-    list-style: disc url(../i/footer_icon_mail.png);   
+    list-style: disc url(../i/footer_icon_mail.png);
 }
 footer .wrapper div.menu ul a {
     color: white;
@@ -235,7 +238,7 @@ footer .wrapper div.menu ul a {
 #colorful-line-footer {
     height: 5px;
     width: 100%;
-}   
+}
 #colorful-line-footer span {
     background: #70c4dd;
     width: 33.33%;
@@ -244,7 +247,7 @@ footer .wrapper div.menu ul a {
     float: left;
 }
 #colorful-line-footer span:nth-child(2){
-    background: #fff;   
+    background: #fff;
 }
 #colorful-line-footer span:nth-child(3){
     background: #616464;
